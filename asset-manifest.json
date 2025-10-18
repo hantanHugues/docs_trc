@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/docs_trc/static/css/main.1dab0c86.css",
+    "main.js": "/docs_trc/static/js/main.fa8fcc02.js",
+    "index.html": "/docs_trc/index.html",
+    "main.1dab0c86.css.map": "/docs_trc/static/css/main.1dab0c86.css.map",
+    "main.fa8fcc02.js.map": "/docs_trc/static/js/main.fa8fcc02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dab0c86.css",
+    "static/js/main.fa8fcc02.js"
+  ]
+}
